@@ -1,0 +1,1 @@
+this is me creating ala function  wahala and doing some nested loops
