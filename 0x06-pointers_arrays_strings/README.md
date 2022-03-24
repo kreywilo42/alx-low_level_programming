@@ -1,0 +1,1 @@
+my second pointer array and strings directory
