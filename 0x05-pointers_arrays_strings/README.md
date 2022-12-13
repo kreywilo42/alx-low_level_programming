@@ -1,1 +1,0 @@
-my pointers, array and strings directory
